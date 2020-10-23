@@ -1,20 +1,21 @@
 # expo-react-native-shadow
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
 ---
 
 This is a port of [`react-native-shadow`](https://github.com/879479119/react-native-shadow) that is **compatible with Expo** and replaces the react-native-svg tags in React Native Shadow with Expo's SVG API. **That means no ejecting!**
 
 The documentation is the same as `react-native-shadow`'s:
 
-![Demo](http://7xsm7w.com1.z0.glb.clouddn.com/20161015151531.png)
-
 ## HOW TO USE IT
 
 ### Installation
-you must run the command to install the plugin and its dependences in you project
+**Yarn**
 ```bash
 yarn add expo-react-native-shadow
 ``` 
+**NPM**
+```bash
+npm install expo-react-native-shadow
+```
 
 ### Implementation
 
